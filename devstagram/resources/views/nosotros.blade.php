@@ -11,7 +11,12 @@
         <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
 
     </head>
-    <body class="font-sans antialiased dark:bg-black dark:text-white/50">
-        <h1>Hola desde Laravel</h1>
+    <body>
+        <nav>
+            <a href="/">Principal</a>
+            <a href="/nosotros">Nosotros</a>
+            <a href="/tienda">Tienda</a>
+        </nav>
+        <h1>Nosotros</h1>
     </body>
 </html>
